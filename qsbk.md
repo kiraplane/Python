@@ -21,3 +21,4 @@
 - ② 对基本语法的不熟悉，导致不理解代码的含义，还需要再一步学习，比如list的增删改查，方法、对象等
 - ③ 正则表达式的重要性，正则表达式是核心，需要了解惰性和非惰性匹配，本次用的非惰性匹配非常实用，借鉴下别人的理解进行说明：https://github.com/516310189/PythonSpider/tree/master/QSBK
 - ④ cookie的用法（虽然本项目没用）：导入cookie库->创建cookie文件->创建代用cookie的opener->访问登录后的url，将cookie保存到文件中->用保存的cookie访问该站点的其他url
+- ⑤ 需要学会用审查元素看html的代码
